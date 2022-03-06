@@ -1,5 +1,10 @@
 # Coronavirus twitter analysis
 
+## Analysis on Mapreduce
+For the mapreduce task, I ran the mapping to generate two counters for language and country on all of the Twitter posts during the time period. From the result, we can see that the majority of posts using the Korean coronavirus tag are posts from Korea, while the majority of posts using the Chinese coronavirus tag are in fact, from the United States. This indicates the firewall in China and how many people who post in Mandarin perhaps use some type of proxy to hide their real post location.
+
+## Instructions
+
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
 
 **Due date:** 
